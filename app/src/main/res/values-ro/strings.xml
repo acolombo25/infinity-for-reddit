@@ -147,7 +147,6 @@ Atinge pentru a reîncerca."</string>
     <string name="unfollowed">"Nu îl mai urmărești"</string>
     <string name="unfollow_failed">"Eșuare scoaterea din urmăriri"</string>
     <string name="content_description_banner_imageview">"Imagine Banner a Subreddit-ului"</string>
-    <string name="app_label">"Infinit"</string>
     <string name="search_hint">"Caută orice"</string>
     <string name="no_posts_no_lazy_mode">"Nicio postare disponibilă"</string>
     <string name="lazy_mode_start">"Mod Leneș începe în %1$.1fs"</string>

@@ -137,7 +137,6 @@
     <string name="unfollowed">"Suivi annulé"</string>
     <string name="unfollow_failed">"Échec de l'annulation du suivi"</string>
     <string name="content_description_banner_imageview">"Image de la Bannière du Subreddit"</string>
-    <string name="app_label">"Infinity"</string>
     <string name="search_hint">"Rechercher n'importe quoi"</string>
     <string name="no_posts_no_lazy_mode">"Aucune publication disponible"</string>
     <string name="lazy_mode_start">"Le Mode Parasseux commence dans %1$.1fs"</string>

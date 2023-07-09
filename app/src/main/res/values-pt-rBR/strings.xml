@@ -135,7 +135,6 @@ Toque para tentar novamente."</string>
     <string name="unfollowed">"Parou de Seguir"</string>
     <string name="unfollow_failed">"Erro ao Parar de Seguir"</string>
     <string name="content_description_banner_imageview">"Imagem do Banner do Subreddit"</string>
-    <string name="app_label">"Infinity"</string>
     <string name="search_hint">"Busque qualquer coisa"</string>
     <string name="no_posts_no_lazy_mode">"Nenhum post disponível"</string>
     <string name="lazy_mode_start">"Modo Preguiçoso inicia em %1$.1fs"</string>

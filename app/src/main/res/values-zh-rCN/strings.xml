@@ -127,7 +127,6 @@
     <string name="content_description_banner_imageview">"版块横幅图片"</string>
 
     <!-- 这个感觉不必翻译 -->
-    <string name="app_label">"Infinity"</string>
     <string name="search_hint">"搜索您要找的"</string>
     <string name="no_posts_no_lazy_mode">"暂无可用帖子"</string>
     <string name="lazy_mode_start">"懒人模式已启用，滑动间隔 %1$.1f 秒"</string>

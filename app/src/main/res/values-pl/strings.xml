@@ -123,7 +123,6 @@
     <string name="unfollowed">"Przestano obserwować"</string>
     <string name="unfollow_failed">"Nie udało się przestać obserwować"</string>
     <string name="content_description_banner_imageview">"Banner subreddita"</string>
-    <string name="app_label">"Infinity"</string>
     <string name="search_hint">"Wyszukaj cokolwiek"</string>
     <string name="no_posts_no_lazy_mode">"Nie znaleziono postów"</string>
     <string name="lazy_mode_start">"Tryb lenia zaczyna się za %1$.1fs"</string>
